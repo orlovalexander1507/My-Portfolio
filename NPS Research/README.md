@@ -1,6 +1,6 @@
 # Исследование опроса клиентов телекомунникацонной компании
 
-[ipynb](https://github.com/orlovalexander1507/My-Portfolio/blob/5c44de5b8f9314b523c56a06c0d6f0594e57b487/NPS%20Research/NPS%20Research.ipynb) [HTML](https://github.com/orlovalexander1507/My-Portfolio/blob/598fd3af8651cf923712c5cc5d3b52a71eeb7e5e/NPS%20Research/NPS%20Research.html) [Tableau] (https://public.tableau.com/app/profile/alexander.orlov/viz/-2_16940307750160/sheet13)
+[ipynb](https://github.com/orlovalexander1507/My-Portfolio/blob/5c44de5b8f9314b523c56a06c0d6f0594e57b487/NPS%20Research/NPS%20Research.ipynb) [HTML](https://github.com/orlovalexander1507/My-Portfolio/blob/598fd3af8651cf923712c5cc5d3b52a71eeb7e5e/NPS%20Research/NPS%20Research.html) [Tableau](https://public.tableau.com/app/profile/alexander.orlov/viz/-2_16940307750160/sheet13)
 
 ## Описание проекта
 
