@@ -1,6 +1,6 @@
 # Анализ убытков приложения ProcrastinatePRO+
 
-[ipynb](https://github.com/orlovalexander1507/My-Portfolio/blob/5c44de5b8f9314b523c56a06c0d6f0594e57b487/NPS%20Research/NPS%20Research.ipynb) [HTML](https://github.com/orlovalexander1507/My-Portfolio/blob/598fd3af8651cf923712c5cc5d3b52a71eeb7e5e/NPS%20Research/NPS%20Research.html)
+[ipynb](https://github.com/orlovalexander1507/My-Portfolio/blob/45c8f9ef70b37732ed10329b4761e0daa9c956cb/App%20Business%20Analysis/business_analysis.ipynb) [HTML](https://github.com/orlovalexander1507/My-Portfolio/blob/45c8f9ef70b37732ed10329b4761e0daa9c956cb/App%20Business%20Analysis/business_analysis.html)
 
 ## Описание проекта
 
@@ -15,6 +15,8 @@
 
 ## Вывод
 
-1) 
+1) Сократить вложения в неэффективные рекламные кампании TipTop и FaceBoom и обратить внимание на каналы, например, MediaTornado или lambdaMediaArts.<br>
+2) Более тщательно изучить рынок и пользователей США, как ключевого рынка, и не делать ставку только на рекламу через TipTop и FaceBoom - можно попробовать обратить внимание на эффективно показавшие себя в других странах рекламные каналы.<br>
+3) Обратить внимание на платформу PC, там не очень высокая конверсия, зато эти клиенты стабильно окупаются, и это самая популярная платформа для нашего приложения за пределами США.
 
 
